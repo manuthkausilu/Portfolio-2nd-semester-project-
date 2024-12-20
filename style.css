@@ -115,10 +115,11 @@ span{
   0 0 100px var(--main-color),
 }
 .home-content p{
-  font-size: 1.5rem;
+  font-size: 1.75rem;
   font-weight: 500;
   line-height: 1.8;
   max-width: 1000px;
+  text-align: justify;
 }
 .social-icons a{
   display: inline-flex;
@@ -288,6 +289,7 @@ span{
 .about-content p{
   font-size: 1.8rem;
   margin: 2rem 0 3rem;
+  text-align: justify;
 }
 .about .heading{
   margin: 0;
@@ -371,7 +373,7 @@ span{
   font-size: 8rem;
 }
 .projects{
-  background: url("profile.jpg")center no-repeat;
+  background: url("images/profile.jpg")center no-repeat;
   background-size: cover;
 }
 .projects-box{
